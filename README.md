@@ -20,6 +20,8 @@ This project focuses on analyzing end-to-end supply chain performance by transfo
 • Charts for stock levels and operational trends<br>
 • Dynamic dashboards with filters and slicers for deeper insights<br>
 
+Screenshots<br>
+![Dashboard Preview](https://github.com/shashank-naruka0/Supply-Chain-Analytics-Dashboard/blob/main/Dasboard%20Image.jpg)
 🛠 Tools & Technologies Used<br>
 • Power BI Desktop - Main data visualisation platform used for report creation.<br>
 • Power Query - Data transformation and cleaning layer for reshaping and preparingh data.<br>
